@@ -1,0 +1,104 @@
+*{margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto',serif;
+}
+header{
+    height: 38px;
+    background-color: #1CD1B0;
+    font-size: 15px;
+    line-height: 35px;
+    
+}
+.titulo{
+    display: inline-block;
+    height: 101px;
+    width: 100%;
+    background-color: #00669F;
+    
+}
+h1{
+   font-size: 40px;
+   line-height: 90px;
+}
+h2{
+    font-size: 30px;
+    margin-top: 74px;
+}
+.article2{
+    position: absolute;
+    top: 140px;
+    left: 362px;
+}
+.article3{
+    position: absolute;
+    top: 140px;
+    left: 692px;
+}
+.arriba{
+    height: 193px;
+    width: 300px;
+    background-image: url('../img/batman_back.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 154px;
+    margin-left: 32px;
+}
+.arribaHarlely{
+    height: 193px;
+    width: 300px;
+    background-image: url('../img/harly_back.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 154px;
+    margin-left: 32px;
+}
+.abajo{
+    background-color: #F3F3F3;
+    height: 100%;
+    width: 300px;
+    text-align: center;
+    padding: 17px; 
+    margin-left: 32px;
+   
+}
+.corazon{
+    position: relative;
+    top: 15.88px;
+    left: 21px;
+}
+.imagenCentral{
+position: relative;
+top:128px;
+left: 90px;
+right: 90px;
+
+}
+.imagenCentral img{
+    border-radius: 50%;
+}
+p{
+    margin-bottom: 52px;
+}
+.vermas{
+    background-color: #00669F;
+    width: 128px;
+    height: 48px;
+    line-height: 45px;
+    margin-left: 65px;
+    margin-bottom: 18px;
+}
+.vermas a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+footer{
+    height: 51px;
+    background-color: #00669F;
+    color: white;
+    font-size: 16px;
+    line-height: 50px;
+    margin-top: 151px;
+}
